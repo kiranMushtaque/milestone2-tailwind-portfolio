@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kiran's Personal Portfolio
 
-## Getting Started
+Welcome to my **Personal Portfolio**! This website is a showcase of my skills, projects, and experience as a passionate **Web Developer** and **AI Enthusiast**. Built using **Next.js**, and **Tailwind CSS**, this portfolio reflects my dedication to creating beautiful, functional, and impactful web applications.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## **Table of Contents**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Technologies Used](#technologies-used)
+4. [Installation](#installation)
+5. [Contact](#contact)
+6. [Project Skills](#project-skills)
+7. [License](#license)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## **Overview**
 
-## Learn More
+This portfolio consists of multiple sections that introduce who I am and what I do, including:
 
-To learn more about Next.js, take a look at the following resources:
+- **Hero Section**: Dynamic introduction with a typewriter effect that showcases my name and skills.
+- **About Section**: An overview of my web development journey, skills, and achievements.
+- **Contact Section**: A form for users to directly reach out to me, along with my contact information and location on the map.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The portfolio is built with a **responsive design** to ensure it looks great on both desktop and mobile devices.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## **Features**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Interactive Hero Section**: Uses a typewriter effect to introduce myself and display key skills such as Web Development, TypeScript, and AI Enthusiasm.
+- **About Me Section**: Details about my background, skills, and proud projects like the ATM application and more.
+- **Contact Form**: Allows visitors to directly send me messages via a clean, easy-to-use contact form.
+- **Responsive Design**: Optimized layout for a seamless experience on all devices (mobile, tablet, desktop).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## **Technologies Used**
+
+- **Next.js**: Framework for building the server-side rendered React app.
+- **Tailwind CSS**: Utility-first CSS framework used to style the website with custom themes.
+- **Typewriter-effect**: For the interactive text animation on the Hero section.
+- **Google Maps API**: Integrated into the contact section to show my location.
+
+---
+
+## **Installation**
+
+Follow these steps to set up the project locally:
+
+1. **Clone the Repository**:
+   ```bash
+git clone https://github.com/kiran123/personal-portfolio.git
+
