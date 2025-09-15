@@ -9,7 +9,7 @@ interface ProjectType {
   title: string;
   description: string;
   link: string;
-  image: string; // now a string path
+  image: string; 
 }
 
 const projects: ProjectType[] = [
@@ -29,25 +29,25 @@ const projects: ProjectType[] = [
     title: "Calculator",
     description: "Awesome calculator using HTML, JS, CSS.",
     link: "https://quick-calc-gold.vercel.app/",
-    image: "/images/calutaor.PNG",
+    image: "/images/calutaor.png",
   },
   {
     title: "Currency Convertor",
     description: "Sleek currency convertor.",
     link: "https://currency-convertor-two-zeta.vercel.app/",
-    image: "/images/curency convertor.PNG",
+    image: "/images/currency-converter.png",
   },
   {
     title: "Word Countor",
     description: "Functional word countor.",
     link: "https://word-counter-one-delta.vercel.app/",
-    image: "/images/Word Counter.png",
+    image: "/images/word-counter.png",
   },
   {
     title: "Number Guessing Game",
     description: "Fun number guessing game.",
     link: "https://number-gussing-game-eight.vercel.app/",
-    image: "/images/number gussing game.PNG",
+    image: "/images/number-gussing-game.png",
   },
   {
     title: "Todo App",
