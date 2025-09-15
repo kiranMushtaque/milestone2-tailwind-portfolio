@@ -29,7 +29,7 @@ const projects: ProjectType[] = [
     title: "Calculator",
     description: "Awesome calculator using HTML, JS, CSS.",
     link: "https://quick-calc-gold.vercel.app/",
-    image: "/images/calutaor.png",
+    image: "/images/calculator.png",
   },
   {
     title: "Currency Convertor",
