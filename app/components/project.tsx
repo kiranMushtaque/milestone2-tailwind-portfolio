@@ -293,7 +293,7 @@ const ProjectHoloDeckPage: FC = () => {
               Project HoloDeck
             </h1>
             <p className="mt-2 text-slate-400 animate-text-focus-in animation-delay-300">
-              An Interactive 3D Portfolio Experience
+              Explore my interactive portfolio and web projects
             </p>
           </header>
 
